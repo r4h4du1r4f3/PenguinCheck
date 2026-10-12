@@ -1,2 +1,2 @@
-def hello() -> str:
-    return "Hello from penguincheck!"
+def main() -> None:
+    print("Hello from penguincheck!")
